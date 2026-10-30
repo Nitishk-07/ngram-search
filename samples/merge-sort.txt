@@ -1,0 +1,1 @@
+Merge sort is a divide and conquer sorting algorithm. It splits the array in half, recursively sorts each half, and merges the two sorted halves back together. The merge step walks both halves with two pointers and always copies the smaller element. Merge sort always runs in O(n log n) time and is stable, but it needs O(n) extra memory for the merge buffer.

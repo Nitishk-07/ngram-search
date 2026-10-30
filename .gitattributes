@@ -1,0 +1,6 @@
+* text=auto
+# shell scripts must keep LF or they fail on macOS/Linux
+mvnw text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
