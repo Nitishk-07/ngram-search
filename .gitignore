@@ -13,3 +13,7 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+
+# personal prep notes, kept local
+INTERVIEW_GUIDE.md
+RESUME_BULLETS.md
